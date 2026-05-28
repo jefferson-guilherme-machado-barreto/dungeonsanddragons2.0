@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Ficha D&D",
+    "slug": "dnd-sheet",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#1a0800"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1a0800"
+      },
+      "package": "com.dndsheet.app"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
